@@ -79,3 +79,10 @@ tfoot th {
 /* Hacer que la tabla HTML quede igual que la imágen
    sin modificar para nada el código HTML */
 
+  button {
+    background-color: #00f;
+  }
+  button:hover {
+    transition: 1s all ease;
+    background-color: #008000;
+  }
